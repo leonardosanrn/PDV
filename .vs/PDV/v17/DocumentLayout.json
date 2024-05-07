@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leonardo\\source\\repos\\PDV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|C:\\Users\\leonardo\\source\\repos\\PDV\\pdv\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|solutionrelative:pdv\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|c:\\users\\leonardo\\source\\repos\\pdv\\pdv\\produtos\\frmprodutos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|solutionrelative:pdv\\produtos\\frmprodutos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|C:\\Users\\leonardo\\source\\repos\\PDV\\pdv\\produtos\\frmprodutos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|solutionrelative:pdv\\produtos\\frmprodutos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|C:\\Users\\leonardo\\source\\repos\\PDV\\pdv\\pdv\\frmlistaprodutos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|solutionrelative:pdv\\pdv\\frmlistaprodutos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|C:\\Users\\leonardo\\source\\repos\\PDV\\pdv\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|solutionrelative:pdv\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|C:\\Users\\leonardo\\source\\repos\\PDV\\pdv\\produtos\\frm_cad_produtos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|solutionrelative:pdv\\produtos\\frm_cad_produtos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|C:\\Users\\leonardo\\source\\repos\\PDV\\pdv\\pdv\\pdv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|solutionrelative:pdv\\pdv\\pdv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|C:\\Users\\leonardo\\source\\repos\\PDV\\pdv\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|solutionrelative:pdv\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|C:\\Users\\leonardo\\source\\repos\\PDV\\pdv\\pdv.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|solutionrelative:pdv\\pdv.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|C:\\Users\\leonardo\\source\\repos\\PDV\\pdv\\pdv.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9753DAD-F323-4C45-9BA5-6442BFDF3836}|PDV\\PDV.vbproj|solutionrelative:pdv\\pdv.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PDV",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\PDV.vbproj",
+              "RelativeDocumentMoniker": "PDV\\PDV.vbproj",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\PDV.vbproj",
+              "RelativeToolTip": "PDV\\PDV.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-03-22T21:00:06.632Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmProdutos.vb",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Produtos\\frmProdutos.vb",
+              "RelativeDocumentMoniker": "PDV\\Produtos\\frmProdutos.vb",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Produtos\\frmProdutos.vb",
+              "RelativeToolTip": "PDV\\Produtos\\frmProdutos.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-02T20:46:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmProdutos.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Produtos\\frmProdutos.vb",
+              "RelativeDocumentMoniker": "PDV\\Produtos\\frmProdutos.vb",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Produtos\\frmProdutos.vb [Projeto]",
+              "RelativeToolTip": "PDV\\Produtos\\frmProdutos.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-02T19:21:00.095Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmListaProdutos.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\pdv\\frmListaProdutos.vb",
+              "RelativeDocumentMoniker": "PDV\\pdv\\frmListaProdutos.vb",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\pdv\\frmListaProdutos.vb [Projeto]",
+              "RelativeToolTip": "PDV\\pdv\\frmListaProdutos.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-02T18:11:45.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PDV",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\PDV.vbproj",
+              "RelativeDocumentMoniker": "PDV\\PDV.vbproj",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\PDV.vbproj",
+              "RelativeToolTip": "PDV\\PDV.vbproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-05-02T18:11:06.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Login.vb",
+              "RelativeDocumentMoniker": "PDV\\Login.vb",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Login.vb [Projeto]",
+              "RelativeToolTip": "PDV\\Login.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-02T12:52:55.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_cad_Produtos.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Produtos\\frm_cad_Produtos.vb",
+              "RelativeDocumentMoniker": "PDV\\Produtos\\frm_cad_Produtos.vb",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Produtos\\frm_cad_Produtos.vb [Projeto]",
+              "RelativeToolTip": "PDV\\Produtos\\frm_cad_Produtos.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T15:48:31.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pdv.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\pdv\\pdv.vb",
+              "RelativeDocumentMoniker": "PDV\\pdv\\pdv.vb",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\pdv\\pdv.vb [Projeto]",
+              "RelativeToolTip": "PDV\\pdv\\pdv.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-02T20:19:02.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.vb",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Dashboard.vb",
+              "RelativeDocumentMoniker": "PDV\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Dashboard.vb",
+              "RelativeToolTip": "PDV\\Dashboard.vb",
+              "ViewState": "AQIAADYAAAAAAAAAAAAewE8AAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-22T19:50:08.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Dashboard.vb",
+              "RelativeDocumentMoniker": "PDV\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\PDV\\PDV\\Dashboard.vb [Projeto]",
+              "RelativeToolTip": "PDV\\Dashboard.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-22T19:50:03.837Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
