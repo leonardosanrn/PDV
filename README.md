@@ -29,7 +29,7 @@ NUGET
 
 ## Screenshots
 
-![App Screenshot](![Uploading image.png…]()
-)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+[img]https://i.imgur.com/B78kkuA.png[/img]
 
 ****
