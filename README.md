@@ -29,7 +29,9 @@ NUGET
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/B78kkuA.png)
-[img]https://i.imgur.com/B78kkuA.png[/img]
-
+![PDV](https://i.imgur.com/B78kkuA.png)
+![Dashboard](https://i.imgur.com/J6mxfMW.png)
+![Cadastro de Produtos](https://i.imgur.com/btO8qNy.png)
+![Financeiro](https://i.imgur.com/vgeBE9a.png)
+![Relatorios](https://i.imgur.com/PRQCz9g.png)
 ****
